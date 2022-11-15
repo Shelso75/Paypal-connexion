@@ -1,0 +1,7 @@
+[17-Mar-2021 04:50:36 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/pplfbfvu/public_html/prevents/anti3.php on line 5
+[17-Mar-2021 04:50:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pplfbfvu/public_html/prevents/anti3.php:5) in /home/pplfbfvu/public_html/prevents/anti3.php on line 5
+[17-Mar-2021 04:50:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pplfbfvu/public_html/prevents/anti3.php:5) in /home/pplfbfvu/public_html/prevents/anti3.php on line 5
+[17-Mar-2021 04:50:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pplfbfvu/public_html/prevents/anti3.php:5) in /home/pplfbfvu/public_html/prevents/anti3.php on line 5
+[17-Mar-2021 04:50:41 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/pplfbfvu/public_html/prevents/anti5.php on line 5
+[17-Mar-2021 04:50:58 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/pplfbfvu/public_html/prevents/anti7.php on line 27
+[17-Mar-2021 04:50:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pplfbfvu/public_html/prevents/anti3.php:5) in /home/pplfbfvu/public_html/prevents/anti7.php on line 149
